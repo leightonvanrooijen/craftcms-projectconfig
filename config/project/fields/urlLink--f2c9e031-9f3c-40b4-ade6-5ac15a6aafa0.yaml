@@ -1,0 +1,12 @@
+contentColumnType: string(255)
+fieldGroup: 3d7ec1aa-0ca8-4594-8570-2323e30a0f4d
+handle: urlLink
+instructions: 'Put any associated  url link here'
+name: 'URL Link'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: 'URL Link'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url
